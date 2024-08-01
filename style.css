@@ -53,7 +53,7 @@ button.normal {
     font-weight: 600;
     padding: 15px 30px;
     color: black;
-    background-color: white;
+    background-color: #afafb6;
     border-radius: 4px;
     cursor: pointer;
     outline: none;
@@ -1015,6 +1015,11 @@ h2{
      background-color: #088178;
      color: #fff;
      padding: 12px 20px;
+}
+#subtotal button a {
+    outline: none;
+    text-decoration: none;
+    color: #fff;
 }
 #subtotal{
     width: 50%;
