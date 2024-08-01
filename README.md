@@ -1,6 +1,6 @@
 # Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
 
-[<img alt="Ecommerce Website" width="100%" src="banner/readmepic.png" />]
+<img alt="Ecommerce Website" width="100%" src="banner/readmepic.png" />
 
 ## learn, how to create a Ecommerce Website from Scratch
  we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
