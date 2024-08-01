@@ -16,6 +16,9 @@
 - Advanced responsive design using media queries.
 - And Many More.
 
+## note please
+I have just uploaded this site on github repository so login will not store data in database. if you want to store this on database we have to use localhost or web hosting.
+
 ## Sections
 - Part1: Responsive Home Page Design.
 - Part2: Shop Page & Single Product Page.
