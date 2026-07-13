@@ -30,3 +30,9 @@ I have just uploaded this site on github repository so login will not store data
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
 Get the full source code from [here2](https://github.com/Bobysoni199/Ecommerce-Website-Project).
+
+
+---
+
+## Updated via Pipeline Bulk Manager
+This README was updated using the Script Console.
